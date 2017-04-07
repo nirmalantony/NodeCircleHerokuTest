@@ -5,7 +5,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: TestNodeCircleCIHeroku
+      appname: testnodecircleciheroku
 
 test:
   override:    
