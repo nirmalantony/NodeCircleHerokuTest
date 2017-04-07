@@ -1,0 +1,25 @@
+{
+  "name": "nodecircleheroku",
+  "version": "1.0.0",
+  "description": "package json for testing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.2.4",
+    "mocha": "^1.20.1",
+    "supertest": "1.1.0"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirmalantony/NodeCircleHerokuTest.git"
+  },
+  "author": "nirmal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nirmalantony/NodeCircleHerokuTest/issues"
+  },
+  "homepage": "https://github.com/nirmalantony/NodeCircleHerokuTest#readme"
+}
